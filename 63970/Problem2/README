@@ -1,0 +1,7 @@
+1-)Please download the zip file and extract it into your desktop
+2-)Follow the commands
+3-)Open terminal and type "cd Desktop"
+4-)"cd 63970"
+5-)"cd Problem2"
+6-)gcc -o p2 p2.c
+7-)./p2

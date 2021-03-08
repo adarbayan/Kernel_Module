@@ -1,0 +1,13 @@
+1-)Please download the zip file and extract it into your desktop
+2-)Follow the commands
+3-)Open terminal and type "cd Desktop"
+4-)"cd 63970"
+5-)"cd Problem1"
+
+
+
+
+
+6-) For each of the question and subparts please do the following (Program names are fork_1a,fork_1b, fork_1c)
+6-)gcc -o programname programname.c
+7-)./programname

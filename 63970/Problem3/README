@@ -1,0 +1,26 @@
+QUESTION 3 PART A
+
+1-)Please download the zip file and extract it into your desktop
+2-)Follow the commands
+3-)Open terminal and type "cd Desktop"
+4-)"cd 63970"
+5-)"cd Problem3"
+6-)"make"
+7-)"sudo insmod p3a.ko" (For loading)
+8-)"dmesg" (For outputs)
+9-)"sudo rmmod p3a" (For removing)
+10-)"dmesg" (For outputs)
+
+
+QUESTION 3 PART B
+1-)Please download the zip file and extract it into your desktop
+2-)Follow the commands
+3-)Open terminal and type "cd Desktop"
+4-)"cd 63970"
+5-)"cd Problem3"
+6-)"make"
+7-)"sudo insmod p3b.ko myint=1" (For parent)
+8-)"dmesg" (For outputs)
+
+
+
